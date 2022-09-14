@@ -2,4 +2,4 @@
 
 ### My work is deployed in this URL:
 
-[ MinaTour ] (https://mina-grid-practice.netlify.app)
+[ Grid ] (https://mina-grid-practice.netlify.app)
